@@ -1,244 +1,208 @@
 {
-    "seeFoodVendors": [
-        {
-        "name": "Tarvin Seefood",
-        "address": "102 Haddrell St, Mt Pleasant, SC 29464",
-        "web": "https://www.misspaulashrimp.com/",
-        "phone": "(843) 324-5281",
-        "email": "Misspaulashrimp@yahoo.com",
-        "products":[
-            "shrimp",
-            "frozen squid"
-        ],
-        "schedule": "Sunday to Saturday from 10am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/Tarvin-SeafoodMiss-Paula-355000301193674/",
-            "Instagram": "https://www.instagram.com/misspaulashrimp/"
-
-        },
-        "images": [
-            "https://www.google.com/maps/uv?hl=gl&pb=!1s0x88fe70e588c26c0d%3A0x35f259006baf44b2!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOp1JBD-QpCksH0nImoyCgm9wqosTRZTNE8HR_w%3Dw520-h350-n-k-no!5starbin%20seefood%20charlesotn%20-%20Busca%20de%20Google!15sCAQ&imagekey=!1e10!2sAF1QipOp1JBD-QpCksH0nImoyCgm9wqosTRZTNE8HR_w",
-            "https://static.wixstatic.com/media/147b7c_fb3315073b9349cab4025fd5c995b5d5~mv2_d_3648_5472_s_4_2.jpg/v1/crop/x_0,y_1115,w_3648,h_3243/fill/w_766,h_716,al_c,q_85,usm_0.66_1.00_0.01/147b7c_fb3315073b9349cab4025fd5c995b5d5~mv2_d_3648_5472_s_4_2.webp"
-        ],
-        "story": "Miss Paula is a beautiful, classic wooden shrimp trawler. She was built in 1969 for Waring Hills of Isle of Palms, SC and named for his daughter, Laura Anne. Although the  Laura Anne was his pride and joy for over forty years, the time came for her to begin a new life with a younger captain, and she found her way into our care.We purchased the Laura Anne in late 2011 from Mr. Hills, .and we are determined to care for her as well and as fully as he did. We are often asked where the name Miss Paula came from. Since Vasa was introduced to Captain Magwood by a favorite teacher, Paula Urbano, it seemed only fitting to we honor her in some way, so we decided to name our trawler after her. We all know the importance of having a teacher who encourages us to chase our dreams, and we  are   reminded of this each time we look at our beautiful boat! The Carolina Breeze joined our operation at the end of 2015.  She is a freezer boat, meaning she has an onboard flash freezer, and the hold is actually a freezer. This allows the Carolina Breeze to travel in search of shrimp, and stay out for a longer time, all the while keeping the shrimp in pristine condition. She typically fishes anywhere between Pamilco Sound in North Carolina, and Cape Canaveral in Florida. We are lucky to have Donnie Brown, a seasoned Captain from Mt Pleasant, at the helm. During times when the local shrimp are not around, we are especially glad to have the Carolina Breeze looking for shrimp for us!"
-
+  "vendors": [
+    {
+      "name": "Tarvin Seafood",
+      "address": "102 Haddrell St, Mt Pleasant, SC 29464",
+      "web": "https://www.misspaulashrimp.com/",
+      "phone": "(843) 324-5281",
+      "email": "misspaulashrimp@yahoo.com",
+      "products": [
+        "shrimp",
+        "frozen squid"
+      ],
+      "schedule": "Sunday to Saturday from 10am to 6 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/Tarvin-SeafoodMiss-Paula-355000301193674/",
+        "instagram": "https://www.instagram.com/misspaulashrimp/",
+        "yelp": "https://www.yelp.com/biz/tarvin-seafood-mount-pleasant"
+      },
+      "images": [
+        "https://www.google.com/maps/uv?hl=gl&pb=!1s0x88fe70e588c26c0d%3A0x35f259006baf44b2!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOp1JBD-QpCksH0nImoyCgm9wqosTRZTNE8HR_w%3Dw520-h350-n-k-no!5starbin%20seefood%20charlesotn%20-%20Busca%20de%20Google!15sCAQ&imagekey=!1e10!2sAF1QipOp1JBD-QpCksH0nImoyCgm9wqosTRZTNE8HR_w",
+        "https://static.wixstatic.com/media/147b7c_fb3315073b9349cab4025fd5c995b5d5~mv2_d_3648_5472_s_4_2.jpg/v1/crop/x_0,y_1115,w_3648,h_3243/fill/w_766,h_716,al_c,q_85,usm_0.66_1.00_0.01/147b7c_fb3315073b9349cab4025fd5c995b5d5~mv2_d_3648_5472_s_4_2.webp"
+      ],
+      "story": "Miss Paula is a beautiful, classic wooden shrimp trawler. She was built in 1969 for Waring Hills of Isle of Palms, SC and named for his daughter, Laura Anne. Although the  Laura Anne was his pride and joy for over forty years, the time came for her to begin a new life with a younger captain, and she found her way into our care.We purchased the Laura Anne in late 2011 from Mr. Hills, .and we are determined to care for her as well and as fully as he did. We are often asked where the name Miss Paula came from. Since Vasa was introduced to Captain Magwood by a favorite teacher, Paula Urbano, it seemed only fitting to we honor her in some way, so we decided to name our trawler after her. We all know the importance of having a teacher who encourages us to chase our dreams, and we  are   reminded of this each time we look at our beautiful boat! The Carolina Breeze joined our operation at the end of 2015.  She is a freezer boat, meaning she has an onboard flash freezer, and the hold is actually a freezer. This allows the Carolina Breeze to travel in search of shrimp, and stay out for a longer time, all the while keeping the shrimp in pristine condition. She typically fishes anywhere between Pamilco Sound in North Carolina, and Cape Canaveral in Florida. We are lucky to have Donnie Brown, a seasoned Captain from Mt Pleasant, at the helm. During times when the local shrimp are not around, we are especially glad to have the Carolina Breeze looking for shrimp for us!"
     },
     {
-        "name": "Crosby’s Fish and Shrimp",
-        "address": "2223 Folly Rd, Charleston, SC 29412",
-        "web": "https://crosbysfishshrimp.com/",
-        "phone": "(843) 795-4049",
-        "email": "info@crosbysfishshrimp.com",
-        "products":[
-            "shrimp",
-            "fish",
-            "oysters",
-            "carbs"
-        ],
-        "schedule": "Sunday to Saturday from 6am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/Crosbys-Fish-and-Shrimp-158422756371/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3916-1030x687.jpg",
-            "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3944-687x1030.jpg",
-            "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3979-1030x687.jpg"
-
-        ],
-        "story": "In 1973, Horace Crosby, Sr. purchased the property at 2223 Folly Road with the dream of having a quiet place to dock his boat, catch and sell live shrimp to sell to local fisherman and perhaps a little bit of tackle. Having been in the taxi cab business, he and his brother started the Yellow Cab franchise in Charleston in 1963 he longed to be on the water. Fishing was his favorite past time. With an existing dock in place, Captain Horace built a modest building and outfitted it with rod and reels for rent, some coolers for cold beverages and small rack of snacks for those fishing, and a cigar box as a cash register.The business continued to grow, and the seafood counters got larger and larger. Ice Machines were added, rooms filled with styro-foam coolers were assembled,and Crosby’s because one of the most desirable places for fisherman and beach goers to stop and fill their coolers with both libations and ice.In 1988, Captain Horace and his brother parted ways and with that came a new name; Crosby’s Fish and Shrimp. On November 9th, Captain Horace retired and sold the business to his two youngest twin daughters, Ellie Crosby Berry and Joanie Crosby Cooksey. Sadly a week later, on November 16th, 1988 on his 62nd birthday, he suffered a massive heart attack and died.In 1989, Hurricane Hugo took down most of the original building, but the docks withstood the storm. Family members helped for weeks to clean up the debris. Tractor trailers of ice arrived from Louisiana. Generators arrived from California. Friends from all of the country reached out to help the family."
+      "name": "Crosby’s Fish and Shrimp",
+      "address": "2223 Folly Rd, Charleston, SC 29412",
+      "web": "https://crosbysfishshrimp.com/",
+      "phone": "(843) 795-4049",
+      "email": "info@crosbysfishshrimp.com",
+      "products": [
+        "shrimp",
+        "fish",
+        "oysters",
+        "carbs"
+      ],
+      "schedule": "Sunday to Saturday from 6am to 6 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/Crosbys-Fish-and-Shrimp-158422756371/",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/crosbys-fish-and-shrimp-company-charleston"
+      },
+      "images": [
+        "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3916-1030x687.jpg",
+        "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3944-687x1030.jpg",
+        "https://crosbysfishshrimp.com/wp-content/uploads/2016/03/charleston-seafood-3979-1030x687.jpg"
+      ],
+      "story": "In 1973, Horace Crosby, Sr. purchased the property at 2223 Folly Road with the dream of having a quiet place to dock his boat, catch and sell live shrimp to sell to local fisherman and perhaps a little bit of tackle. Having been in the taxi cab business, he and his brother started the Yellow Cab franchise in Charleston in 1963 he longed to be on the water. Fishing was his favorite past time. With an existing dock in place, Captain Horace built a modest building and outfitted it with rod and reels for rent, some coolers for cold beverages and small rack of snacks for those fishing, and a cigar box as a cash register.The business continued to grow, and the seafood counters got larger and larger. Ice Machines were added, rooms filled with styro-foam coolers were assembled,and Crosby’s because one of the most desirable places for fisherman and beach goers to stop and fill their coolers with both libations and ice.In 1988, Captain Horace and his brother parted ways and with that came a new name; Crosby’s Fish and Shrimp. On November 9th, Captain Horace retired and sold the business to his two youngest twin daughters, Ellie Crosby Berry and Joanie Crosby Cooksey. Sadly a week later, on November 16th, 1988 on his 62nd birthday, he suffered a massive heart attack and died.In 1989, Hurricane Hugo took down most of the original building, but the docks withstood the storm. Family members helped for weeks to clean up the debris. Tractor trailers of ice arrived from Louisiana. Generators arrived from California. Friends from all of the country reached out to help the family."
     },
     {
-        "name": "Capt. Don’s Seafood",
-        "address": "1212 Savannah Hwy., West Ashley",
-        "web": "",
-        "phone": "(843) 556-0451",
-        "email": "",
-        "products":[
-            "shrimp",
-            "fish",
-            "oysters",
-            "carbs"
-        ],
-        "schedule": "Monday to Saturday from 9 am to 6:30 pm and Sundays 11:30 am to 5:30 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/Capt-Dons-Seafood-120623651347619",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://s3-media0.fl.yelpcdn.com/bphoto/HUvZA5mYF1XDlrkrlNsWpQ/o.jpg",
-            "https://s3-media0.fl.yelpcdn.com/bphoto/U4d5j91tXvoHJ0qe3_jx7A/o.jpg",
-            "https://s3-media0.fl.yelpcdn.com/bphoto/w0XiMXWvVEDbQBXs6Rp-Ug/o.jpg",
-            "https://s3-media0.fl.yelpcdn.com/bphoto/mGo9B1EcguZhb1p1ibv7VA/o.jpg"
-
-        ],
-        "story": "Capt. Don’s Seafood is local family owned Seafood Market. They have been in business since 1977. They try to keep live crabs and oysters everyday because that is their most popular item. They know what their customers like and they love to keep them happy."
+      "name": "Capt. Don’s Seafood",
+      "address": "1212 Savannah Hwy., West Ashley",
+      "web": "",
+      "phone": "(843) 556-0451",
+      "email": "",
+      "products": [
+        "shrimp",
+        "fish",
+        "oysters",
+        "carbs"
+      ],
+      "schedule": "Monday to Saturday from 9 am to 6:30 pm and Sundays 11:30 am to 5:30 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/Capt-Dons-Seafood-120623651347619",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/capt-dons-seafood-charleston"
+      },
+      "images": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/HUvZA5mYF1XDlrkrlNsWpQ/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/U4d5j91tXvoHJ0qe3_jx7A/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/w0XiMXWvVEDbQBXs6Rp-Ug/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/mGo9B1EcguZhb1p1ibv7VA/o.jpg"
+      ],
+      "story": "Capt. Don’s Seafood is local family owned Seafood Market. They have been in business since 1977. They try to keep live crabs and oysters everyday because that is their most popular item. They know what their customers like and they love to keep them happy."
     },
     {
-        "name": "Abundant Seafood",
-        "address": "248 Magwood Ln., Mount Pleasant",
-        "web": "https://www.abundantseafood.co/",
-        "phone": "(843) 478-5078",
-        "email": "",
-        "products":[
-            "fish"
-        ],
-        "schedule": "",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/Abundant-Seafood-506014452767076/",
-            "Instagram": "https://www.instagram.com/abundantseafood/"
-
-        },
-        "images": [
-            "https://s3-media0.fl.yelpcdn.com/bphoto/3t5L8FE7e4eapBSqIa620A/o.jpg",
-            "https://s3-media0.fl.yelpcdn.com/bphoto/pWOAzMMwTAYgnLKm1LEfkA/o.jpg",
-            "https://s3-media0.fl.yelpcdn.com/bphoto/VyMBNPIuflBLq9AAQ630dw/o.jpg"
-
-        ],
-        "story": "Abundant Seafood is operated by Mark and Kerry Marhefka. Mark began fishing for a living the day after he graduated from high school in 1979, and has spent years fishing the waters of the southeast from North Carolina to Florida. Kerry grew up in Maine with fishing in her blood and became a fishing biologist for the Federal Government primarily working on marine protected areas (MPAs) off the southeast US coast. Learn more about our history, beliefs and practices below."
+      "name": "Abundant Seafood",
+      "address": "248 Magwood Ln., Mount Pleasant",
+      "web": "https://www.abundantseafood.co/",
+      "phone": "(843) 478-5078",
+      "email": "",
+      "products": [
+        "fish"
+      ],
+      "schedule": "",
+      "links": {
+        "facebook": "https://www.facebook.com/Abundant-Seafood-506014452767076/",
+        "instagram": "https://www.instagram.com/abundantseafood/",
+        "yelp": "https://www.yelp.com/biz/abundant-seafood-mount-pleasant"
+      },
+      "images": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/3t5L8FE7e4eapBSqIa620A/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/pWOAzMMwTAYgnLKm1LEfkA/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/VyMBNPIuflBLq9AAQ630dw/o.jpg"
+      ],
+      "story": "Abundant Seafood is operated by Mark and Kerry Marhefka. Mark began fishing for a living the day after he graduated from high school in 1979, and has spent years fishing the waters of the southeast from North Carolina to Florida. Kerry grew up in Maine with fishing in her blood and became a fishing biologist for the Federal Government primarily working on marine protected areas (MPAs) off the southeast US coast. Learn more about our history, beliefs and practices below."
     },
     {
-        "name": "Mount Pleasant Seafood",
-        "address": "1411 Shrimp Boat Ln., Mount Pleasant",
-        "web": "https://mtpleasantseafood.com/",
-        "phone": "(843) 884-4122",
-        "email": "",
-        "products":[
-            "shrimp",
-            "fish",
-            "carbs"
-        ],
-        "schedule": "Monday to Saturday from 9 am to 7 pm and Sundays 10 am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/mtpseafood/?ref=bookmarks",
-            "Instagram": "https://www.instagram.com/mtpseafood/"
-
-        },
-        "images": [
-            "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/71cfa50c-609a-44a4-92f5-7e4ba8d18943.JPG/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc",
-            "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/fc378cc7-07f7-4032-a4ba-da5058b282d5.jpg/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc",
-            "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/9120b790-571c-405d-bb03-34e66bbab2a0.jpg/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc"
-
-        ],
-        "story": "Our History Mt. Pleasant Seafood was recognized as being one of Mt. Pleasant's businesses that has been in the community for 70+ years...in fact, they're celebrating their 73rd year in 2018."
+      "name": "Mt. Pleasant Seafood",
+      "address": "1411 Shrimp Boat Ln., Mount Pleasant",
+      "web": "https://mtpleasantseafood.com/",
+      "phone": "(843) 884-4122",
+      "email": "",
+      "products": [
+        "shrimp",
+        "fish",
+        "carbs"
+      ],
+      "schedule": "Monday to Saturday from 9 am to 7 pm and Sundays 10 am to 6 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/mtpseafood/?ref=bookmarks",
+        "instagram": "https://www.instagram.com/mtpseafood/",
+        "yelp": "https://www.yelp.com/biz/mt-pleasant-seafood-mount-pleasant-6"
+      },
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/71cfa50c-609a-44a4-92f5-7e4ba8d18943.JPG/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc",
+        "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/fc378cc7-07f7-4032-a4ba-da5058b282d5.jpg/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc",
+        "https://img1.wsimg.com/isteam/ip/5cdf0102-e43b-41ea-b1b6-ba5f10cfb1c0/9120b790-571c-405d-bb03-34e66bbab2a0.jpg/:/rs=w:800,h:1000,cg:true,m/cr=w:1600,h:1000,a:cc"
+      ],
+      "story": "Our History Mt. Pleasant Seafood was recognized as being one of Mt. Pleasant's businesses that has been in the community for 70+ years...in fact, they're celebrating their 73rd year in 2018."
     },
     {
-        "name": "Huff’s Seafood",
-        "address": "765 Folly Rd., James Island",
-        "web": "https://www.huffsseafood.com/",
-        "phone": "(843) 884-4122",
-        "email": "",
-        "products":[
-            "fish",
-            "oysters"
-        ],
-        "schedule":  "Monday to Saturday from 10 am to 6 pm and Sundays 10 am to 5 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/pages/category/Local-Business/HUFFS-SEAFOOD-120841344561/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://www.huffsseafood.com/images/home-top.gif",
-            "https://www.huffsseafood.com/images/home-top.gif"
-
-        ],
-        "story": "Huff's Seafood is a family-owned business (Bill and Paula Huff) located at 765 Folly Road, James Island, South Carolina. They have been in business since May of 1995."
+      "name": "Huff’s Seafood",
+      "address": "765 Folly Rd., James Island",
+      "web": "https://www.huffsseafood.com/",
+      "phone": "(843) 884-4122",
+      "email": "",
+      "products": [
+        "fish",
+        "oysters"
+      ],
+      "schedule": "Monday to Saturday from 10 am to 6 pm and Sundays 10 am to 5 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/pages/category/Local-Business/HUFFS-SEAFOOD-120841344561/",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/huffs-seafood-charleston-2"
+      },
+      "images": [
+        "https://www.huffsseafood.com/images/home-top.gif",
+        "https://www.huffsseafood.com/images/home-top.gif"
+      ],
+      "story": "Huff's Seafood is a family-owned business (Bill and Paula Huff) located at 765 Folly Road, James Island, South Carolina. They have been in business since May of 1995."
     },
     {
-        "name": "Geechie Seafood",
-        "address": "248 Magwood Ln., Mount Pleasant",
-        "web": "",
-        "phone": "843) 860-7046",
-        "email": "",
-        "products":[
-            "shrimp"
-        ],
-        "schedule": "Sunday to Saturday from 9am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/pages/category/Specialty-Grocery-Store/Geechie-Seafood-Trawler-Warren-H-Rector-236553356358902/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://c8.alamy.com/comp/E9ADD9/geechie-seafood-along-shem-creek-in-mount-pleasant-south-carolina-E9ADD9.jpg",
-            "http://ruhlman.com/wp-content/uploads/2013/06/IMG_1882.jpg"
-            
-
-        ],
-        "story": "Bubba Rector owns Geechie Seafood with his wife Pam and has been shrimping since the 1970s. Go to the Shem Creek dock next to Cottage on the Creek midday, and you might get to watch Bubba and his shirtless crew (during the summer, at least) unload Geechie’s boat, the Warren H. Rector. The strikers dock and unload on the back deck, tossing shrimp to flocks of pelicans as they work. The shrimp are washed, sorted to size, headed, iced, packaged to order and sold no farther than five feet from the heading table. After the haul, Rector and his sons and grandson, fellow shrimpers, and friends kill time, basking on the dock at the Geechie Seafood hut during shrimping season (mid-spring through December)."
+      "name": "Geechie Seafood",
+      "address": "248 Magwood Ln., Mount Pleasant",
+      "web": "",
+      "phone": "843) 860-7046",
+      "email": "",
+      "products": [
+        "shrimp"
+      ],
+      "schedule": "Sunday to Saturday from 9am to 6 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/pages/category/Specialty-Grocery-Store/Geechie-Seafood-Trawler-Warren-H-Rector-236553356358902/",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/geechi-seafood-mount-pleasant"
+      },
+      "images": [
+        "https://c8.alamy.com/comp/E9ADD9/geechie-seafood-along-shem-creek-in-mount-pleasant-south-carolina-E9ADD9.jpg",
+        "http://ruhlman.com/wp-content/uploads/2013/06/IMG_1882.jpg"
+      ],
+      "story": "Bubba Rector owns Geechie Seafood with his wife Pam and has been shrimping since the 1970s. Go to the Shem Creek dock next to Cottage on the Creek midday, and you might get to watch Bubba and his shirtless crew (during the summer, at least) unload Geechie’s boat, the Warren H. Rector. The strikers dock and unload on the back deck, tossing shrimp to flocks of pelicans as they work. The shrimp are washed, sorted to size, headed, iced, packaged to order and sold no farther than five feet from the heading table. After the haul, Rector and his sons and grandson, fellow shrimpers, and friends kill time, basking on the dock at the Geechie Seafood hut during shrimping season (mid-spring through December)."
     },
     {
-        "name": "Cherry Point Seafood Co, Inc.",
-        "address": "2789 Cherry Point Rd, Wadmalaw Island",
-        "web": "https://cherry-point-seafood-co-inc.business.site/?utm_source=gmb&utm_medium=referral",
-        "phone": "(843) 559-0858",
-        "email": "",
-        "products":[
-            "fish",
-            "shrimp"
-        ],
-        "schedule": "Monday to Friday from 9am to 5 pm and Saturday 9 am to 2pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/cherrypointseafood/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://lh3.googleusercontent.com/XE-TpQKjvedI96bbpSuUoUAi7oY1JV0YSl96z4HCYntTTcLi4IBSOElcxu23EzzjAWorpPKOBoezZit8=w960-h960-n-o-v1",
-            "https://lh3.googleusercontent.com/684nxMC6TgquyZ-Bkc4y79WvmAeXSsGh6RzoOh_Zvy-AZbtxzSxG8pbDWW8iVFA8mlhcUalhT7BKQOjO=w960-h960-n-o-v1",
-            "https://lh3.googleusercontent.com/ZLrxjR-hSwhHl1wEVtZtXrSXdNjbe69f6b8NchRwZnEGVeR1Oh93RlQz60N6sMxO5W2TzzEG74PvD0Zn=w960-h960-n-o-v1"
-
-        ],
-        "story": ""
+      "name": "Cherry Point Seafood Co, Inc.",
+      "address": "2789 Cherry Point Rd, Wadmalaw Island",
+      "web": "https://cherry-point-seafood-co-inc.business.site/?utm_source=gmb&utm_medium=referral",
+      "phone": "(843) 559-0858",
+      "email": "",
+      "products": [
+        "fish",
+        "shrimp"
+      ],
+      "schedule": "Monday to Friday from 9am to 5 pm and Saturday 9 am to 2pm",
+      "links": {
+        "facebook": "https://www.facebook.com/cherrypointseafood/",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/cherry-point-seafood-company-wadmalaw-island"
+      },
+      "images": [
+        "https://lh3.googleusercontent.com/XE-TpQKjvedI96bbpSuUoUAi7oY1JV0YSl96z4HCYntTTcLi4IBSOElcxu23EzzjAWorpPKOBoezZit8=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/684nxMC6TgquyZ-Bkc4y79WvmAeXSsGh6RzoOh_Zvy-AZbtxzSxG8pbDWW8iVFA8mlhcUalhT7BKQOjO=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/ZLrxjR-hSwhHl1wEVtZtXrSXdNjbe69f6b8NchRwZnEGVeR1Oh93RlQz60N6sMxO5W2TzzEG74PvD0Zn=w960-h960-n-o-v1"
+      ],
+      "story": ""
     },
     {
-        "name": "Marvin's Seafood",
-        "address": " 4224 Dorchester Rd., North Charleston",
-        "web": "",
-        "phone": "843) 529-1764",
-        "email": "",
-        "products":[
-            
-        ],
-        "schedule": "Sunday to Saturday from 6am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/pages/category/Seafood-Restaurant/Marvins-Seafood-134817296612447/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://s3-media0.fl.yelpcdn.com/bphoto/gNwWAQPlAHJ7O4Xk31bCHQ/348s.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpj7O6fO0Ew0wD0gVonAiPArdQXVzC6fXND9dqRBm6qQe-ggpaGA&s"
-
-
-        ],
-        "story": "Marvin’s has been in business for 30+ years. Selling fresh fish, blue crabs, shrimp, oysters, live crab, + cooked seafood to-go. Be sure to ask about their fish of the day. "
-    },
-    {
-        "name": "",
-        "address": "",
-        "web": "",
-        "phone": "",
-        "email": "",
-        "products":[
-            
-        ],
-        "schedule": "Sunday to Saturday from 6am to 6 pm",
-        "socialMedia":{
-            "Facebook": "https://www.facebook.com/pages/category/Seafood-Restaurant/Marvins-Seafood-134817296612447/",
-            "Instagram": ""
-
-        },
-        "images": [
-            "https://s3-media0.fl.yelpcdn.com/bphoto/gNwWAQPlAHJ7O4Xk31bCHQ/348s.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpj7O6fO0Ew0wD0gVonAiPArdQXVzC6fXND9dqRBm6qQe-ggpaGA&s"
-
-
-        ],
-        "story": "Marvin’s has been in business for 30+ years. Selling fresh fish, blue crabs, shrimp, oysters, live crab, + cooked seafood to-go. Be sure to ask about their fish of the day. "
+      "name": "Marvin's Seafood",
+      "address": " 4224 Dorchester Rd., North Charleston",
+      "web": "",
+      "phone": "843) 529-1764",
+      "email": "",
+      "products": [],
+      "schedule": "Sunday to Saturday from 6am to 6 pm",
+      "links": {
+        "facebook": "https://www.facebook.com/pages/category/Seafood-Restaurant/Marvins-Seafood-134817296612447/",
+        "instagram": "",
+        "yelp": "https://www.yelp.com/biz/marvins-seafood-n-charleston"
+      },
+      "images": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/gNwWAQPlAHJ7O4Xk31bCHQ/348s.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpj7O6fO0Ew0wD0gVonAiPArdQXVzC6fXND9dqRBm6qQe-ggpaGA&s"
+      ],
+      "story": "Marvin’s has been in business for 30+ years. Selling fresh fish, blue crabs, shrimp, oysters, live crab, + cooked seafood to-go. Be sure to ask about their fish of the day. "
     }
-    ]
+  ]
 }
