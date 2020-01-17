@@ -204,5 +204,8 @@
       ],
       "story": "Marvin’s has been in business for 30+ years. Selling fresh fish, blue crabs, shrimp, oysters, live crab, + cooked seafood to-go. Be sure to ask about their fish of the day. "
     }
-  ]
+  ],
+  "site": {
+    "title": "Fresh Seafood Charleston"
+  }
 }
